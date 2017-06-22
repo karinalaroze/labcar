@@ -61,3 +61,110 @@
 	margin-top: -15px;
 }
 
+.informacion{
+	background-color: #f7b617;
+	height: 400px;
+}
+
+.info img{
+	background-size: cover;
+	width: 220px;
+	margin-top: 70px;
+	margin-left: 80px;
+
+}
+
+.info h3{
+	color: white;
+	margin-top: 100px;
+	margin-left: -150px;
+}
+
+.info p{
+	color: white;
+	margin-left: -150px;
+}
+
+.conduce{
+	background-image: url(../img/conduce.jpg);
+	background-position:bottom;
+	background-size: cover;
+	height: 480px;
+	
+}
+
+.containerdos{
+
+	display: flex;
+    flex-direction: column;
+    position: absolute;
+    overflow: auto;
+    background-color: transparent;
+    rgba: 138, 92, 146;
+    width: 400px;
+    height: 320px;
+    top: 1200px;
+    right: 0px;
+    color: white;
+    padding: 30px;
+}
+
+.containerdos button{
+	background-color: #f7b617;
+}
+
+.info2{
+	background-color: #f7b617;
+	height: 350px;
+}
+
+.tarifas h4{
+	color: white;
+	padding: 60px;
+}
+
+.tarifas p{
+	color: white;
+	margin-top: -50px;
+	margin-left: 60px;
+}
+
+.tarifas img{
+	margin-left: 60px;
+	margin-top: 20px;
+}
+
+#origen {
+	margin-top: 5px;
+	width: 200px;
+	background-color: #transparent;
+	border: 1px solid white;
+}
+
+.info2 button{
+	margin-left: 120px;
+
+}
+
+#map{
+	width: 50%;
+	height: 30vh;
+	border: 2px solid white;
+	margin-top: -90px;
+	
+}
+
+.containertres{
+	background-color: #2b2b2b ;
+	height: 500px;
+}
+
+.containertres img{
+	margin-top: 50px;
+	margin-left: 70px;
+}
+
+.containertres hr{
+	width: 90%;
+}
+
